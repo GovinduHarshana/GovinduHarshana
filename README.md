@@ -1,6 +1,6 @@
-# 👋 Hi, I'm [Govindu Harshana]
+# 👋 Hi, I'm Govindu Harshana
 
-🎓 I'm a **2nd year Computer Science student** at *Informatics Institute of Technology*.  
+🎓 I'm a **2nd year Computer Science undergraduate** at *Informatics Institute of Technology (iit)*.  
 🎨 I'm also pursuing certificate courses in **Graphic Design** and **3D Animation** at *Wijeya Graphics, Nugegoda*.
 
 ---
@@ -34,9 +34,9 @@
 
 ## 📫 Let's Connect
 
-- Email: [harshanagovindu@gmail.com]
-- LinkedIn: [www.linkedin.com/in/govindu-harshana-aba060280]
-- Portfolio: [[your-portfolio-link](https://www.behance.net/harshanagovindu)]
+- Email: harshanagovindu@gmail.com
+- LinkedIn: www.linkedin.com/in/govindu-harshana-aba060280
+- Portfolio: https://www.behance.net/harshanagovindu
 
 ---
 

@@ -3,14 +3,10 @@
 - 📚 Currently pursuing certifications in Graphic Design & 3D Animation at Wijeya Graphics, Nugegoda
 
 - 💻 Passionate about:
-
-- 🎮 UI/UX Design, Unity Game Development, and XR Experiences
-
-- 🖌️ Graphic Design using the Adobe Creative Suite
-
-- 🎞️ 3D Animation with Autodesk 3ds Max and Maya
-
-- 🧑‍💻 Software Development using Java, HTML, CSS, JavaScript, and MySQL
+   🎮 UI/UX Design, Unity Game Development, and XR Experiences
+   🖌️ Graphic Design using the Adobe Creative Suite
+   🎞️ 3D Animation with Autodesk 3ds Max and Maya
+   🧑‍💻 Software Development using Java, HTML, CSS, JavaScript, and MySQL
 
 - 🚀 Always learning, always building!
 
